@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2022-03-06T01:24:41.1770317Z</Created>
+    <Created>2022-03-06T01:32:52.2168537Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -109,7 +109,7 @@
       <Symbol>
         <Component Name="Analogicas" />
         <Component Name="Temperatura" />
-        <Component Name="Horno2" />
+        <Component Name="Lubricador1" />
       </Symbol>
     </Access>
     <Call UId="25">
@@ -194,7 +194,7 @@
       <Symbol>
         <Component Name="Analogicas" />
         <Component Name="Nivel" />
-        <Component Name="Tanque3" />
+        <Component Name="Silo4" />
       </Symbol>
     </Access>
     <Call UId="25">
